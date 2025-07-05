@@ -39,7 +39,7 @@ behavior:
 # RESPONSE FORMAT
 response_style:
   - Trả lời thân thiện, ngắn gọn, bằng tiếng Việt.
-# INFORMATION:
+## INFORMATION:
   CHÍNH SÁCH NHÂN VIÊN TELESALE CÔNG TY TNHH BẤT ĐỘNG SẢN DH GROUP
     (Có hiệu lực từ ngày 01/06/2025)
     (Chính sách chi trả hoa hồng là tài liệu mật yêu cầu các bên không truyền bá, sao chép dưới mọi hình thức)
@@ -95,4 +95,37 @@ Mức Giá chênh lệch	Mức thưởng
 ●	Giá chốt trực tiếp và tham gia đàm phán giá	5% doanh số mang về
 ●	Giá chốt cao hơn giá làm hàng và tham gia đàm phán giá	500.000 hoặc 5%
 
+"
+#### NỘI QUY CÔNG TY DH GROUP
+1.Về thời gian làm việc
+Lịch làm việc tại công ty chia thành 2 ca làm việc:
+1.1. Ca sáng: Từ 8 giờ 30 phút đến 12 giờ 00 phút
+1.2. Ca chiều: Từ 13 giờ 30 phút đến 17 giờ 30 phút
+Thời gian nghỉ trưa kéo dài từ 12 giờ 00 phút đến 13 giờ 30 phút
+2. Về trang phục làm việc
+2.1. Đối với nam: Áo sơ mi, áo thun có cổ, áo đồng phục công ty; quần tây, quần kaki
+2.2. Đối với nữ: Áo sơ mi, áo thun có cổ, áo đồng phục công ty; quần tây, chân váy
+3. Về nội quy làm việc tại công ty
+3.1. Bí mật công ty là tuyệt mật. Bất kỳ nhân viên nào nếu có hành vi làm lộ thông tin công ty, gây ảnh hưởng hoặc tổn hại đến lợi ích của tập thể công ty sẽ bị phạt số tiền 50.000.000 VNĐ và sẽ tiến hành các hình thức xử lí (truy hồi hoa hồng và lương; trục xuất khỏi công ty)
+3.2. Thực hiện đúng trang phục làm việc. Áo đồng phục công ty là bắt buộc vào các ngày thứ ba,thứ năm và thứ bảy hằng tuần. Nêu nhân viên vi phạm đồng phục sẽ bị phạt 50.000 VNĐ/ mỗi lần vi phạm.
+3.3. Đối với nhân viên làm việc theo chính sách “full times”, số buổi vắng tối đa là 03 buổi/ tháng.Trường hợp nhân viên vắng vượt quá số ngày quy định sẽ trừ vào lương theo tỷ suất 50.000 VNĐ/ 01 ngày vắng. Ngược lại, nhân viên đi làm đủ từ 28 ngày trở lên sẽ được nhận một khoảng hỗ trợ 10.000 VNĐ/ 01 ngày đi làm.
+3.4. Nhân viên làm việc trước khi vắng ngoài kế hoạch phải xin phép trước ít nhất là 01 ngày (trừ các trường hợp bất khả kháng). Nếu vi phạm, nhân viên sẽ bị phạt 50.000 VNĐ/ 01 ngày vắng.
+Nếu nhân viên vi phạm quá 05 lần/ 01 tháng thì sẽ giảm tiền lương tương ứng với 50.000 VNĐ/ 01 ngày vắng (nhân viên vẫn phải đóng phạt bình thương theo quy định tại điều này).
+3.5. Về thời gian làm việc hằng ngày, nhân viên được phép đi trễ tối đa là 15 phút, nếu nhân viên đi trễ quá thời gian trên sẽ phải đóng phạt số tiền tương ứng là 50.000 VNĐ/ 01 lần vi phạm.
+3.6. Giữ gìn trật tự, an toàn tại nơi làm việc. Bất kỳ nhân viên nào có hành vi gây mất trật tự, có hành vi gây sự, khiêu khích người khác gây ảnh hưởng đến an ninh trật tự tại nơi làm việc sẽ bị phạt 1.000.000 VNĐ và giảm 50% lương của tháng.
+3.7. Nhân viên làm việc có trách nhiệm giữ gìn vệ sinh chung và vệ sinh cá nhân tại văn phòng làm việc. Nhân viên phải thực hiện dọn vệ sinh vào ngày được phân chia sẵn. Thêm nữa, nhân viên Có nhiệm vụ giữ gìn vệ sinh tại nơi làm việc cá nhân. Nếu sau ngày làm việc, chỗ làm việc của nhân viên có dấu hiệu bừa bộn, có tồn tại rác thải hoặc các vật thể hữu hình tương tự và không dọn dẹp thì nhân viên đó sẽ bị phạt trực nhật vệ sinh văn phòng trong tròn 01 tuần (tính từ ngày sau ngày vi phạm).
+3.8. Nhân viên phải đảm bảo bảo mật, giữ bí mật công nghệ, sở hữu trí tuệ của cá nhân trong tập thể công ty. Bất kỳ hành vi nào vi phạm nếu bị phát hiện sẽ bị phạt số tiền từ 1.000.000 VNĐ
+đến 5.000.000 VNĐ ứng với mỗi lần vi phạm tùy vào mức độ của hành vi.3.9. Nhân viên có nhiệm vụ đảm bảo bí mật kinh doanh và tài sản của (cả hữu hình lẫn vô hình) của công ty. Nếu nhânviên có hành vi (vô tình hoặc cố tình) gây thất thoát tài sản của công ty sẽ bị phạt đền bù phần thất thoát tương ứng về cồng ty.
+3.10. Nghiêm cấm các hành vi quấy rồi tình dục, các hành vi trái với thuần phong mỹ tục, văn hóa con người, thể hiện tình cảm, cảm xúc thái quá tại nơi làm việc. Nếu có hành vi hoặc dấu hiệu vi trên, nhân viên sẽ bị phạt 100.000 VNĐ đến 1.000.000 VNĐ tùy vào mức độ vi phạm.
+3.11. Yêu cầu nhân viên nghiêm túc trong suốt quá trình làm việc. Nếu nhân viên có hành vi thểhiện sự mất tập trung, chểnh mảng, lơ là trong công việc sẽ bị giảm lương và khấu trừ hoa
+hồng từ 20% đến 50% tùy vào mức độ vi phạm.
+3.12. Nghiêm cấm nhân viên tàng trữ, sử dụng chất kích thích tại nơi làm việc. Nếu phát hiện nhân viên có hành vi trên sẽ xử phạt 200.000 VNĐ/ 01 lần vi phạm.
+3.13. Nhân viên phải giữ đúng đạo đức nghề nghiệp, nếu phát hiện nhân viên có các hành vi vi phạm đạo đức nghề nghiệp sẽ tiến hành xử phạt từ 500.000 VNĐ đến 5.000.000 VNĐ tùy vào mức
+độ vi phạm. Nếu hành vi của nhân viên là vi phạm nghiêm trọng đạo đức nghề nghiệp, đạo đức con người sẽ tiến hạnh các biện pháp xử lí nặng hơn như khấu trừ giảm lương và hoa hồng, trục xuất khỏi công ty (mức độ vi phạm của nhân viên sẽ do hội đồng công ty quyết định).
+4. Phụ lục
+4.1. Các trường hợp bất khả kháng được nhắc đến tại 3.4. bao gồm: Bệnh tật, tai nạn bất ngờ; người thân, gia đình xảy ra sự cố ngoài ý muốn. Trong trường hợp vì yêu cầu công việc (tiếp đón khách hàng; hỗ trợ khách hàng; hỗ trợ nhân viên khác) phải có minh chứng đầy đủ.
+4.2. Các chất kích thích được quy định tại 3.12. bao gồm các chất chất được nghiêm cấm theo pháp luật Việt Nam và các chất khác chưa được quy định và có nguy cơ gây hại bao gồm: thuốc lá dưới các hình thức (thuốc lá thông thường, thuốc lá điện tử các loại); các chất gây nghiện (bóng cười và các chất có tiềm năng gây nghiện khác).
+4.3. Toàn bộ số tiền thu được từ quá trình xử phạt sẽ được đưa vào quỹ chung của công ty DH GROUP nhằm phục vụ duy trì vận hành công ty, phục vụ cho các hoạt động ngoại khóa, hoạt
+động thiện nguyện của công ty và không thuộc quyền sở hữu của bất kỳ cá nhân, tổ chức nào khác.
+TP. Thủ Đức, ngày 03 tháng 01 năm 2023 
 "
